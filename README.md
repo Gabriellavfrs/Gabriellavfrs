@@ -1,8 +1,8 @@
-### 👋 Hi there 
+## 👋 Hi there 
 
 Olá! Eu sou Gabriella e atualmente estou em transição de carreira, realizando o curso de Desenvolvimento Web Fullstack na Trybe. 
 
-### :computer: Tech Stack
+## :computer: Tech Stack
 
 |<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">|<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">|<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">| <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  |:------------: | :------------: | :------------: | :------------: |
@@ -11,11 +11,13 @@ Olá! Eu sou Gabriella e atualmente estou em transição de carreira, realizando
 |<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">|<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">|<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">|<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">|
 
 
-### 🌱 Learning...
+## 🌱 Learning...
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
 
-### :globe_with_meridians: Social
+## :globe_with_meridians: Social
 
 <a href="https://www.linkedin.com/in/gab-vieira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+
+
