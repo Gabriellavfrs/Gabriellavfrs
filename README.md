@@ -1,6 +1,7 @@
 ## 👋 Hi there 
 
-Olá! Eu sou Gabriella e atualmente estou em transição de carreira, realizando o curso de Desenvolvimento Web Fullstack na Trybe. 
+Engenheira civil apaixonada por desafios e soluções criativas. Minha jornada começou na PUC-GO, onde me formei em Engenharia Civil. Durante este tempo, tive meu primeiro contato com a área de tecnologia que me fez ingressar na Trybe em 2023.
+As habilidades analíticas que desenvolvi com a engenharia, em consonância com o curso da Trybe, tem me proporcionado habilidades técnicas para criar soluções de software, encarar desafios de maneira sistemática e trabalhar em equipe para atingir metas.
 
 ## :computer: Tech Stack
 
