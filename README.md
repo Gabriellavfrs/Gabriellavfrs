@@ -18,7 +18,7 @@ As habilidades analíticas que desenvolvi com a engenharia, em consonância com 
 ## 🌱 Learning...
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 ## :globe_with_meridians: Social
 
