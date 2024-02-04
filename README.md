@@ -22,5 +22,3 @@ As habilidades analíticas que desenvolvi com a engenharia, em consonância com 
 ## :globe_with_meridians: Social
 
 <a href="https://www.linkedin.com/in/gab-vieira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-
-
