@@ -17,7 +17,7 @@ As habilidades analíticas que desenvolvi com a engenharia, em consonância com 
 
 ## 🌱 Learning...
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 ## :globe_with_meridians: Social
 
