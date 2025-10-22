@@ -1,8 +1,8 @@
 ## 👋 Hi there 
 
-Desenvolvedora full stack apaixonada por desafios e soluções criativas. Atuo em projetos com foco em boas práticas de arquitetura, segurança e escalabilidade, utilizando ferramentas modernas de desenvolvimento e entrega, como Firebase, Codemagic e Google Cloud Platform.
-
-Tenho experiência no desenvolvimento back-end de APIs RESTful robustas e escaláveis integradas a bancos de dados relacionais e não relacionais, desenvolvimento de aplicativos mobile com Flutter e front-end com React.js.
+Desenvolvedora full stack com experiência em criação de aplicativos mobile, web e back-end, focada em boas práticas de arquitetura, segurança e escalabilidade. 
+Tenho experiência no desenvolvimento de aplicações Flutter com arquitetura BLoC e integração ao Firebase (Authentication, Cloud Functions e Cloud Messaging), de APIs RESTful em Go e NestJS integradas a bancos SQL e NoSQL e interfaces web com React, utilizando Styled Components e Tailwind. 
+Também tenho conhecimento em implantação e monitoramento de serviços no Google Cloud Platform (GCP) e em processos de integração e entrega contínua (CI/CD) com Codemagic.
 
 ## :computer: Tech Stack
 
